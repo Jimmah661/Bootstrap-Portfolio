@@ -1,0 +1,15 @@
+body {
+    background-image: url("Background.png");
+}
+
+h1 {
+    background-color: teal;
+}
+
+.aboutMe {
+    background-color: #fff;
+}
+
+#aboutImage {
+    width: 250px;
+}
