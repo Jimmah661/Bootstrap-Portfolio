@@ -1,13 +1,14 @@
-body {
-    background-image: url("Background.png");
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #cccccc;
 }
-
-h1 {
-    background-color: teal;
-}
-
 .aboutMe {
     background-color: #fff;
+}
+
+.footer {
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
 }
 
 #aboutImage {
