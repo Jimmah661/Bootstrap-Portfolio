@@ -6,6 +6,15 @@ header {
     background-color: #fff;
 }
 
+.banner {
+    width: 280px;
+    padding: 15px 0px;
+    text-align: center;
+    color: #fff;
+    background-color: #4aaaa5;
+    bottom: 30px;
+}
+
 .footer {
     background-color: #666666;
     border-top: 5px solid #4aaaa5;
